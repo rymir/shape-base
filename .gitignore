@@ -1,0 +1,8 @@
+.plt
+deps/
+.eunit
+.rebar/
+apps/*/ebin/
+apps/*/doc/
+*.beam
+_rel/

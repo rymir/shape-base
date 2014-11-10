@@ -1,0 +1,16 @@
+{application, triangle,
+    [
+        {description, "The triangle application"},
+        {vsn, "semver"},
+        {registered, []},
+        {included_applications, []},  
+        {applications, 
+            [
+                kernel, 
+                stdlib
+            ]
+        },
+        {mod, {undefined, []}},
+        {env, []}
+    ]
+}.
